@@ -34,7 +34,7 @@ import '@styles/global.css'
 		<meta name="twitter:image" content="">
 		<meta name="twitter:creator" content="@edunlu_links">
 	</head>
-	<body class="max-w-xl mx-auto min-h-dvh bg-gradient-to-b from-primary-1 to-primary-2">
+	<body class="max-w-xl mx-auto min-h-dvh fondo">
 		<Header  />
 				<main>
 					<slot />
@@ -42,3 +42,8 @@ import '@styles/global.css'
 		<Footer />	
 	</body>
 </html>
+<style>
+	.fondo {
+		background-image: linear-gradient(180deg,rgba(57, 181, 74, 1) 0%, rgba(0, 104, 55, 1) 100%);
+	}
+</style>
