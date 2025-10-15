@@ -3,9 +3,13 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:currentColor;}
+	.st0{fill:none;}
+	.st1{fill:#7DB928;}
 </style>
-<path class="st0" d="M71,104l-0.6-0.3L71,104l0-36.6L109.9,45L57,14.4L18.1,36.8l0,46.1L71,113.6l38.8-22.4l-8.3-4.8L71,104z
-	 M97.8,45L71.3,60.3l-7.4-4.2v0l26.5-15.4L97.8,45z M24.1,76.9L24.1,76.9l0-36.6l32.7-19l7.3,4.2l-32.7,19l0,36.6L24.1,76.9z
-	 M37.3,84.7L37.4,48l32.7-19l14.3,8.3L51.8,56.2l0,0l0,20.1L37.3,84.7z"/>
+<g>
+	<circle class="st0" cx="64" cy="64" r="64"/>
+	<path class="st1" d="M71,104l-0.6-0.3L71,104l0-36.6L109.9,45L57,14.4L18.1,36.8l0,46.1L71,113.6l38.8-22.4l-8.3-4.8L71,104z
+		 M97.8,45L71.3,60.3l-7.4-4.2v0l26.5-15.4L97.8,45z M24.1,76.9L24.1,76.9l0-36.6l32.7-19l7.3,4.2l-32.7,19l0,36.6L24.1,76.9z
+		 M37.3,84.7L37.4,48l32.7-19l14.3,8.3L51.8,56.2l0,0l0,20.1L37.3,84.7z"/>
+</g>
 </svg>
